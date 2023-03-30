@@ -1,0 +1,6 @@
+let can not repeat again
+but you can print it again with defirant values. (without using let)
+
+var can print again
+
+const can not print again with or without const
